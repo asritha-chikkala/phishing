@@ -150,13 +150,7 @@ Phishing-Detection/
 -   Live threat intelligence integration.
 -   Multi-language phishing detection.
 
-------------------------------------------------------------------------
 
-# 📜 License
-
-This project is licensed under the **MIT License**.
-
-------------------------------------------------------------------------
 
 # ⭐ Acknowledgements
 
