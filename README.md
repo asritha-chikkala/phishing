@@ -119,16 +119,7 @@ Phishing-Detection/
 
 ------------------------------------------------------------------------
 
-# ⚙️ Installation
 
-``` bash
-git clone https://github.com/yourusername/phishing-detection.git
-cd phishing-detection
-pip install -r requirements.txt
-python app.py
-```
-
-------------------------------------------------------------------------
 
 # 📈 Key Highlights
 
